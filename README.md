@@ -84,19 +84,19 @@ R² Score ** 📈 Sample Results** Model R² Score Linear Regression 0.78 Ridge 
 
 ****📂 Project Structure Insurance-Cost-Prediction/
 │
-├── data/
-│ └── insurance.csv
+├── data/<br>
+│ └── insurance.csv<br>
 │
-├── notebooks/
-│ └── EDA_Model.ipynb
+├── notebooks/<br>
+│ └── EDA_Model.ipynb<br>
 │
-├── src/
-│ ├── preprocessing.py
-│ ├── train.py
-│ ├── evaluate.py
+├── src<br>
+│ ├── preprocessing.py<br>
+│ ├── train.py<br>
+│ ├── evaluate.py<br>
 │
-├── requirements.txt
-└── README.md
+├── requirements.txt<br>
+└── README.md<br>
 
 💡 Key Insights
 
