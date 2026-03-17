@@ -41,7 +41,7 @@ Scikit-learn
 
 Jupyter Notebook
 
-🔎 Project Workflow
+🔎 Project Workflow<br>
 1️⃣ Data Preprocessing
 
 Handling categorical variables (One-Hot Encoding)
